@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+}
+.foto-1{
+    background-image: url('./1abr2016---apesar-de-ter-sido-tirada-durante-um-eclipse-lunar-de-2015-a-foto-de-albert-dros-nao-registra-a-lua-mas-sim-o-ceu-escuro-sob-o-monument-valley-nos-eua-14595.jpg');
+    width: 600px;
+    height: 400px;
+    background-size: cover;
+    box-shadow: 0 0 40px white;
+}
+.foto-1:hover{
+    background-image: url('./ibitipoca_eupercebo.jpg');
+    width: 600px;
+    height: 400px;
+    background-size: cover;
+}
